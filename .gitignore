@@ -1,0 +1,7 @@
+.env
+*.pem
+*.key
+terraform.tfstate
+terraform.tfstate.backup
+.vscode/
+.idea/
